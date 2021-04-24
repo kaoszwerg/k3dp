@@ -1,0 +1,25 @@
+{
+    "parameterSets": {
+        "Standardwerte des Designs": {
+            "$fa": "3",
+            "$fs": "0.1",
+            "bearing_id": "8",
+            "bearing_od": "16",
+            "bearing_width": "5",
+            "block_height": "26",
+            "block_length": "46",
+            "block_width": "42",
+            "cap_adjustment": "4",
+            "cap_height": "2.5",
+            "cap_length": "36",
+            "cap_retention_bolt_inset": "8",
+            "cap_slot_inset": "3",
+            "cap_tolerance": "0.4",
+            "cap_width": "26",
+            "check_collision": "0",
+            "show_mode": "1"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": ""
+}
